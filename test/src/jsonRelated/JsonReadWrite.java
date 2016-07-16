@@ -13,6 +13,7 @@ public class JsonReadWrite {
 
     public static void main(String[] args) {
 	
+    	System.out.println("changed");
 	JSONObject obj = new JSONObject();
 	obj.put("name" , "prajakta");
 	obj.put("name", "sameer");
